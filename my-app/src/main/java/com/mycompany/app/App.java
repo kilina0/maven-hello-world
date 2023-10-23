@@ -15,7 +15,7 @@ public class App
         /**
          * Checker prevents this from compiling...
          */
-//        System.out.println("myObject: " + myObject.toString());
+        System.out.println("myObject: " + myObject.toString());
         /**
          * ... which is simply fantastic. It shows:
          *
@@ -24,6 +24,6 @@ public class App
          *
          * http://checkerframework.org
          */
-       // System.out.println("... but thankfully, Checker has our back: http://checkerframework.org");
+        System.out.println("... but thankfully, Checker has our back: http://checkerframework.org");
     }
 }
